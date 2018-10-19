@@ -22,7 +22,7 @@ Die Leitfadenartikel zielen darauf ab, kurze Artikel zu sein, um Sie mit diesen 
 
 Leitfadenartikel können eine Erklärung einer Syntax, eines Entwurfsmusters, wofür Ariebezeichnungen verwendet werden, oder so etwas wie das, was die Zahlen in der oberen rechten Ecke Ihres Bildschirms bedeuten, wenn sie unter [freecodecamp.org](https://freecodecamp.org).
 
-Eine Beispielartikel über HTML-Elemente finden Sie [hier](./src/pages/html/elements/index.md).
+Einen Beispielartikel über HTML-Elemente finden Sie [hier](./src/pages/html/elements/index.md).
 
 ## Worüber kann ich einen Artikel schreiben?
 
@@ -30,11 +30,11 @@ Frontend-Entwicklung (Adjektivform mit einem Bindestrich) ist, wenn Sie am Front
 
 Wir freuen uns über Ihre Hilfe beim Schreiben dieser Artikel. Sie müssen kein Experte in einem Thema sein, um darüber zu schreiben - dieser gesamte Leitfaden ist Open Source, so dass selbst wenn Sie einen Fehler machen, ein anderer Mitwirkender ihn schließlich korrigieren wird.
 
-Um zu helfen, finden Sie einen `stub article` auf unserer[Guide Website](https://guide.freecodecamp.org/), schreiben Sie den Artikel und öffnen Sie dann einen Pull-Request (PR), um den `stub` durch Ihren Artikel zu ersetzen. Mit einem [Pull-Request](https://help.github.com/articles/about-pull-requests/) schlagen Sie Änderungen vor. Es informiert andere über Ihre Änderungen, überprüft sie und übernimmt sie.
+Um zu helfen, finden Sie einen `stub article` auf unserer [Guide Website](https://guide.freecodecamp.org/), schreiben Sie den Artikel und öffnen Sie dann einen Pull-Request (PR), um den `stub` durch Ihren Artikel zu ersetzen. Mit einem [Pull-Request](https://help.github.com/articles/about-pull-requests/) schlagen Sie Änderungen vor. Es informiert andere über Ihre Änderungen, überprüft sie und übernimmt sie.
 
 Wenn Sie keinen `stub` über das Thema finden, über das Sie schreiben möchten, können Sie einen PR öffnen, der den `stub` erstellt und Ihren Entwurf des Artikels enthält.
 
-Wenn Sie sich nicht sicher sind, wo Sie einen neuen Artikel in die Verzeichnisstruktur eintragen sollen, stellen Sie uns bitte Fragen[via Gitter](https://gitter.im/freeCodeCamp/Contributors).
+Wenn Sie sich nicht sicher sind, wo Sie einen neuen Artikel in die Verzeichnisstruktur eintragen sollen, stellen Sie uns bitte Fragen [via Gitter](https://gitter.im/freeCodeCamp/Contributors).
 
 Bevor Sie mit dem Schreiben beginnen, lesen Sie unbedingt den [Artikel Style-Guide](https://github.com/freeCodeCamp/guide/blob/master/CONTRIBUTING.md#article-style-guide), der in der [CONTRIBUTING.md](CONTRIBUTING.md) beschrieben ist.
 
